@@ -1,4 +1,4 @@
-# Hi, I'm Bruno Kawan de Jesus Ferreira 👋
+# Hi, I'm Bruno Kawan 👋
 
 ### Full Stack Developer | Post-grad in Web Development | Computer Engineering Student
 
