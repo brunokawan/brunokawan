@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0078D7&height=200&section=header&text=Bruno%20Kawan&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Eng.%20Computing%20Student&descSize=20&descAlignY=60" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2EA043&height=200&section=header&text=Bruno%20Kawan&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Eng.%20Computing%20Student&descSize=20&descAlignY=60" width="100%"/>
 </div>
 
 ### 👋 Nice to meet you! I'm Bruno Kawan
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=brunokawan&label=Profile%20Views&color=0078D7&style=flat-square" alt="views" />
+  <img src="https://komarev.com/ghpvc/?username=brunokawan&label=Profile%20Views&color=2EA043&style=flat-square" alt="views" />
 </p>
 
 I'm a passionate developer building scalable and resilient systems since 2020. Currently working at **Evertec Brasil** as a **Support Analyst**, focusing on high-availability architectures and critical environments.
@@ -45,25 +45,20 @@ I'm a passionate developer building scalable and resilient systems since 2020. C
 ### 📊 My Coding Activity
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brunokawan&theme=tokyonight&hide_border=true" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brunokawan&theme=github_dark&hide_border=true" width="100%" />
 </div>
 
 ---
 
 ### 🐍 Contribution Snake
 <div align="center">
-  <img src="https://github.com/brunokawan/brunokawan/blob/output/github-contribution-grid-snake.svg" alt="snake" />
+  <img src="https://raw.githubusercontent.com/brunokawan/brunokawan/output/github-contribution-grid-snake-dark.svg" alt="snake" />
 </div>
 
 ---
 
-### 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=brunokawan&theme=tokyonight&no-frame=true&margin-w=15" alt="trophies" />
-</div>
-
 <br>
 
 <p align="center"> 
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Turning%20coffee%20and%20business%20logic%20into%20high-availability%20systems." />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark&quote=Turning%20coffee%20and%20business%20logic%20into%20high-availability%20systems." />
 </p>
