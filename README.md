@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2EA043&height=200&section=header&text=Bruno%20Kawan&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Eng.%20Computing%20Student&descSize=20&descAlignY=60" width="100%"/>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=70&pause=1000&color=2EA043&center=true&vCenter=true&width=1000&height=180&lines=Bruno+Kawan;Full+Stack+Developer;Computing+Student" alt="Typing SVG" width="100%"/></a>
 </div>
 
-### 👋 Nice to meet you! I'm Bruno Kawan
+### 👋 Nice to meet you! I'm Bruno Kawan de Jesus Ferreira
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=brunokawan&label=Profile%20Views&color=2EA043&style=flat-square" alt="views" />
+  <img src="https://komarev.com/ghpvc/?username=brunokawan&label=Profile%20Views&color=00FF00&style=flat-square" alt="views" />
 </p>
 
 I'm a passionate developer building scalable and resilient systems since 2020. Currently working at **Evertec Brasil** as a **Support Analyst**, focusing on high-availability architectures and critical environments.
@@ -39,6 +39,13 @@ I'm a passionate developer building scalable and resilient systems since 2020. C
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" />
 </p>
+
+---
+
+### 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=brunokawan&theme=matrix&no-frame=true&margin-w=15" alt="trophies" />
+</div>
 
 ---
 
