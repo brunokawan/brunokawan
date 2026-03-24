@@ -1,11 +1,11 @@
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=70&pause=1000&color=2EA043&center=true&vCenter=true&width=1000&height=180&lines=Bruno+Kawan;Full+Stack+Developer;Computing+Student" alt="Typing SVG" width="100%"/></a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2EA043&height=200&section=header&text=Bruno%20Kawan&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Eng.%20Computing%20Student&descSize=20&descAlignY=60" width="100%"/>
 </div>
 
 ### 👋 Nice to meet you! I'm Bruno Kawan de Jesus Ferreira
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=brunokawan&label=Profile%20Views&color=00FF00&style=flat-square" alt="views" />
+  <img src="https://komarev.com/ghpvc/?username=brunokawan&label=Profile%20Views&color=2EA043&style=flat-square" alt="views" />
 </p>
 
 I'm a passionate developer building scalable and resilient systems since 2020. Currently working at **Evertec Brasil** as a **Support Analyst**, focusing on high-availability architectures and critical environments.
@@ -42,17 +42,11 @@ I'm a passionate developer building scalable and resilient systems since 2020. C
 
 ---
 
-### 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=brunokawan&theme=matrix&no-frame=true&margin-w=15" alt="trophies" />
-</div>
-
----
-
 ### 📊 My Coding Activity
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brunokawan&theme=github_dark&hide_border=true" width="100%" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunokawan&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=brunokawan&theme=github_dark&hide_border=true" />
 </div>
 
 ---
