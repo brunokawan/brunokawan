@@ -57,8 +57,6 @@ I'm a passionate developer building scalable and resilient systems since 2020. C
 
 ---
 
-### 📫 Let's talk!
-
 <br>
 
 <p align="center"> 
