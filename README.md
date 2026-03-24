@@ -1,46 +1,82 @@
-# Hi, I'm Bruno Kawan 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0078D7&height=200&section=header&text=Bruno%20Kawan&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Eng.%20Computing%20Student&descSize=20&descAlignY=60" width="100%"/>
+</div>
 
-### Full Stack Developer | Post-grad in Web Development | Computer Engineering Student
-
-Building scalable and resilient systems since 2020. Currently working as a **Support Analyst at Evertec Brasil**, handling critical environments and complex architectures.
-
----
-
-### 🚀 About Me
-
-- 🎓 Graduated in **Analysis and Systems Development**.
-- 🎓 Post-graduated in **Web Development**.
-- 🎓 Currently pursuing a Bachelor's in **Computer Engineering**.
-- 💼 4+ years of experience with **.NET, Web, and Mobile** ecosystems.
-- 🛠️ Background in **Administration**, providing a strong understanding of business rules.
-
----
-
-### 🛠️ Tech Stack & Tools
-
-| Category | Skills |
-| :--- | :--- |
-| **Backend** | ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white) |
-| **Frontend/Mobile** | ![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white) ![MAUI](https://img.shields.io/badge/MAUI-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) *(Learning)* |
-| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) |
-| **DevOps & Infrastructure** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white) |
-
----
-
-### 📊 GitHub Stats (brunokawan)
+### 👋 Nice to meet you! I'm Bruno Kawan
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunokawan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunokawan&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img src="https://komarev.com/ghpvc/?username=brunokawan&label=Profile%20Views&color=0078D7&style=flat-square" alt="views" />
+</p>
+
+I'm a passionate developer building scalable and resilient systems since 2020. Currently working at **Evertec Brasil** as a **Support Analyst**, focusing on high-availability architectures and critical environments.
+
+---
+
+### 🚀 Professional Journey & Education
+- ⚡ **Currently:** Support Analyst at **Evertec Brasil**.
+- 🎓 **Bachelor's:** Computer Engineering (In Progress).
+- 📜 **Post-grad:** Web Development.
+- 🎓 **Technologist:** Systems Analysis and Development.
+- 💼 **Experience:** 4+ years deep-diving into **.NET, Web, and Mobile**.
+- 🛠️ **Background:** Business-oriented mindset with a Technical degree in **Administration**.
+
+---
+
+### 🛠️ Tech Stack & Skills
+
+<p align="left">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" />
+  <img src="https://img.shields.io/badge/MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" />
 </p>
 
 ---
 
-### 📫 Connect with me
+### 📊 My Coding Activity
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_LINK_AQUI)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunokawan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunokawan&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brunokawan&theme=tokyonight&hide_border=true" width="100%" />
+</div>
 
 ---
 
-> *"Turning coffee and business logic into high-availability systems."*
+### 🐍 Contribution Snake
+<div align="center">
+  <img src="https://github.com/brunokawan/brunokawan/blob/output/github-contribution-grid-snake.svg" alt="snake" />
+</div>
+
+---
+
+### 📫 Let's talk!
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/SEU_LINK_AQUI" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:seuemail@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<br>
+
+<p align="center"> 
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Turning%20coffee%20and%20business%20logic%20into%20high-availability%20systems." />
+</p>
