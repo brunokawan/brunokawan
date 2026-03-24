@@ -17,7 +17,7 @@ I'm a passionate developer building scalable and resilient systems since 2020. C
 - 🎓 **Bachelor's:** Computer Engineering (In Progress).
 - 📜 **Post-grad:** Web Development.
 - 🎓 **Technologist:** Systems Analysis and Development.
-- 💼 **Experience:** 4+ years deep-diving into **.NET, Web, and Mobile**.
+- 💼 **Experience:** 5+ years deep-diving into **.NET, Web, and Mobile**.
 - 🛠️ **Background:** Business-oriented mindset with a Technical degree in **Administration**.
 
 ---
@@ -43,13 +43,6 @@ I'm a passionate developer building scalable and resilient systems since 2020. C
 ---
 
 ### 📊 My Coding Activity
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunokawan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunokawan&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" />
-</div>
-
-<br/>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=brunokawan&theme=tokyonight&hide_border=true" width="100%" />
