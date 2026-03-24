@@ -59,15 +59,6 @@ I'm a passionate developer building scalable and resilient systems since 2020. C
 
 ### 📫 Let's talk!
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/brunokawan" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:brunokawan@outlook.com.br">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
 <br>
 
 <p align="center"> 
