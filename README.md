@@ -53,7 +53,7 @@ I'm a passionate developer building scalable and resilient systems since 2020. C
 
 ### 🐍 Contribution Snake
 <div align="center">
-  <img src="https://raw.githubusercontent.com/brunokawan/brunokawan/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+  <img src="https://raw.githubusercontent.com/brunokawan/brunokawan/output/github-contribution-grid-snake-dark.svg?v=2" alt="snake" />
 </div>
 
 ---
