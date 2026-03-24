@@ -57,6 +57,11 @@ I'm a passionate developer building scalable and resilient systems since 2020. C
 
 ---
 
+### 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=brunokawan&theme=tokyonight&no-frame=true&margin-w=15" alt="trophies" />
+</div>
+
 <br>
 
 <p align="center"> 
