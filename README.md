@@ -45,7 +45,6 @@ I'm a passionate developer building scalable and resilient systems since 2020. C
 ### 📊 My Coding Activity
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunokawan&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=brunokawan&theme=github_dark&hide_border=true" />
 </div>
 
