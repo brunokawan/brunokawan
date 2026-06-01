@@ -18,7 +18,7 @@ I'm a passionate developer building scalable and resilient systems since 2020. C
 - 🎓 **Bachelor's:** Computer Engineering (In Progress)
 - 📜 **Post-grad:** Web Development
 - 🎓 **Technologist:** Systems Analysis and Development
-- 💼 **Experience:** 5+ years deep-diving into **.NET, Web, and Mobile**
+- 💼 Experience: 5+ years building applications with .NET, React Native, Web APIs, and Cloud Solutions
 - 🛠️ **Background:** Business-oriented mindset with a Technical degree in **Administration**
 
 ---
