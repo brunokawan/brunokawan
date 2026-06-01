@@ -10,6 +10,13 @@
 
 I'm a passionate developer building scalable and resilient systems since 2020. Currently working at **Evertec Brasil** as a **Support Analyst**, focusing on high-availability architectures and critical environments.
 
+### 🎯 Current Focus
+
+- 📱 Learning **React Native**
+- 🇺🇸 Improving my **English**
+- 🏗️ Studying **Software Architecture**
+- ⚡ Advancing my **.NET expertise**
+
 ---
 
 ### 🚀 Professional Journey & Education
