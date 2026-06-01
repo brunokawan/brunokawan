@@ -55,8 +55,6 @@ I'm a passionate developer building scalable and resilient systems since 2020. C
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunokawan&show_icons=true&theme=transparent&bg_color=00000000&title_color=F97316&icon_color=F97316&text_color=FFFFFF&border_color=F97316" />
-
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=brunokawan&theme=transparent&hide_border=false&ring=F97316&fire=F97316&currStreakLabel=F97316&sideLabels=F97316&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=AAAAAA&border=F97316" />
 
 </div>
