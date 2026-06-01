@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2EA043&height=200&section=header&text=Bruno%20Kawan&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Eng.%20Computing%20Student&descSize=20&descAlignY=60" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F97316&height=200&section=header&text=Bruno%20Kawan&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Eng.%20Computing%20Student&descSize=20&descAlignY=60" width="100%"/>
 </div>
 
-### 👋 Nice to meet you! I'm Bruno Kawan de Jesus Ferreira
+### 👋 Nice to meet you! I'm Bruno Kawan
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=brunokawan&label=Profile%20Views&color=2EA043&style=flat-square" alt="views" />
+  <img src="https://komarev.com/ghpvc/?username=brunokawan&label=Profile%20Views&color=F97316&style=flat-square" alt="views" />
 </p>
 
 I'm a passionate developer building scalable and resilient systems since 2020. Currently working at **Evertec Brasil** as a **Support Analyst**, focusing on high-availability architectures and critical environments.
