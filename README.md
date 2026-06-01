@@ -43,29 +43,11 @@ I'm a passionate developer building scalable and resilient systems since 2020. C
 
 ---
 
-### 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=brunokawan&bg_color=0d1117&color=F97316&line=F97316&point=FB923C&area=true&hide_border=true" width="100%" />
-</div>
-
----
-
 ### 📊 GitHub Statistics
 
 <div align="center">
 
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=brunokawan&theme=transparent&hide_border=false&ring=F97316&fire=F97316&currStreakLabel=F97316&sideLabels=F97316&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=AAAAAA&border=F97316" />
-
-</div>
-
----
-
-### 📚 Most Used Languages
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunokawan&layout=compact&theme=transparent&title_color=F97316&text_color=FFFFFF&border_color=F97316" />
 
 </div>
 
