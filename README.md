@@ -13,12 +13,13 @@ I'm a passionate developer building scalable and resilient systems since 2020. C
 ---
 
 ### 🚀 Professional Journey & Education
-- ⚡ **Currently:** Support Analyst at **Evertec Brasil**.
-- 🎓 **Bachelor's:** Computer Engineering (In Progress).
-- 📜 **Post-grad:** Web Development.
-- 🎓 **Technologist:** Systems Analysis and Development.
-- 💼 **Experience:** 5+ years deep-diving into **.NET, Web, and Mobile**.
-- 🛠️ **Background:** Business-oriented mindset with a Technical degree in **Administration**.
+
+- ⚡ **Currently:** Support Analyst at **Evertec Brasil**
+- 🎓 **Bachelor's:** Computer Engineering (In Progress)
+- 📜 **Post-grad:** Web Development
+- 🎓 **Technologist:** Systems Analysis and Development
+- 💼 **Experience:** 5+ years deep-diving into **.NET, Web, and Mobile**
+- 🛠️ **Background:** Business-oriented mindset with a Technical degree in **Administration**
 
 ---
 
@@ -42,23 +43,58 @@ I'm a passionate developer building scalable and resilient systems since 2020. C
 
 ---
 
-### 📊 My Coding Activity
+### 📈 Contribution Activity
 
 <div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=brunokawan&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=brunokawan&bg_color=0d1117&color=F97316&line=F97316&point=FB923C&area=true&hide_border=true" width="100%" />
+</div>
+
+---
+
+### 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunokawan&show_icons=true&theme=transparent&bg_color=00000000&title_color=F97316&icon_color=F97316&text_color=FFFFFF&border_color=F97316" />
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=brunokawan&theme=transparent&hide_border=false&ring=F97316&fire=F97316&currStreakLabel=F97316&sideLabels=F97316&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=AAAAAA&border=F97316" />
+
+</div>
+
+---
+
+### 📚 Most Used Languages
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunokawan&layout=compact&theme=transparent&title_color=F97316&text_color=FFFFFF&border_color=F97316" />
+
 </div>
 
 ---
 
 ### 🐍 Contribution Snake
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/brunokawan/brunokawan/output/github-contribution-grid-snake-dark.svg?v=2" alt="snake" />
+  <img src="https://raw.githubusercontent.com/brunokawan/brunokawan/output/github-contribution-grid-snake-dark.svg" alt="snake" />
 </div>
 
 ---
 
-<br>
+### 💡 Quote
 
-<p align="center"> 
+<p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark&quote=Turning%20coffee%20and%20business%20logic%20into%20high-availability%20systems." />
 </p>
+
+---
+
+<div align="center">
+
+### Connect with me
+
+<a href="https://github.com/brunokawan">
+  <img src="https://img.shields.io/badge/GitHub-F97316?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
